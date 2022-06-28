@@ -1,4 +1,3 @@
----
 Switch between light and dark mode
 ---
 Add code to head (script tag)

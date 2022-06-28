@@ -1,4 +1,3 @@
----
 Switch between light and dark mode
 ---
 create a languages ​​folder in CHILD THEME via FTP and a builder in it.
