@@ -5,7 +5,6 @@ Add code to head
 
 ```js
 < script >
-	// function to set a given theme/color-scheme//
 	(function setTheme(themeName) {
 		localStorage.setItem('theme', themeName);
 		document.documentElement.className = themeName;
