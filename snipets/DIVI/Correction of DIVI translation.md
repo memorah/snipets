@@ -6,10 +6,12 @@ After downloading the file divi-preklad.zip, just unzip the archive and upload t
 
 <div align="center">
   <img src="<div align="center">
-  <img src="https://github.com/memorah/memorah/blob/e6c441e876089f72031b4e48a56cd4031f373d82/fm-banner.png" width="100%" alt="Banner">
-</div>" width="100%" alt="Banner">
+  <img src="https://github.com/memorah/snipets/blob/02faef669cea8c6e7b26697f5c02caf969b14bbd/src/Divi translation img 1.jpeg" width="100%" alt="Banner">
 </div>
 
+
+<a src="https://github.com/memorah/snipets/blob/02faef669cea8c6e7b26697f5c02caf969b14bbd/src/divi-preklad.zip">divi-preklad.zip
+</a>
 create a new snippet and insert the following code
 ``` php
 
