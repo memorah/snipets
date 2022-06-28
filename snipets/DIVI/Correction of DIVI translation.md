@@ -4,10 +4,8 @@ Switch between light and dark mode
 create a languages ​​folder in CHILD THEME via FTP and a builder in it.
 After downloading the file divi-preklad.zip, just unzip the archive and upload the files to language> builder
 
-<div align="center">
-  <img src="<div align="center">
-  <img src="https://github.com/memorah/snipets/blob/02faef669cea8c6e7b26697f5c02caf969b14bbd/src/Divi translation img 1.jpeg" width="100%" alt="Banner">
-</div>
+
+  <img align="center" src="https://github.com/memorah/snipets/blob/02faef669cea8c6e7b26697f5c02caf969b14bbd/src/Divi translation img 1.jpeg" width="100%" alt="Banner">
 
 
 <a src="https://github.com/memorah/snipets/blob/02faef669cea8c6e7b26697f5c02caf969b14bbd/src/divi-preklad.zip">divi-preklad.zip
