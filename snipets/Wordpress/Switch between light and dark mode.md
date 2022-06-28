@@ -1,7 +1,7 @@
 ---
 Switch between light and dark mode
 ---
-Add code to: <head>.. </head>
+Add code to head
 
 ```js
 <script>
