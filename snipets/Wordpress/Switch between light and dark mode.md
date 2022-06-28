@@ -1,15 +1,14 @@
 ---
 Switch between light and dark mode
 ---
-Add code to head
+Add code to head (script tag)
 
 ```js
-< script >
+
 	(function setTheme(themeName) {
 		localStorage.setItem('theme', themeName);
 		document.documentElement.className = themeName;
 	})
-	// function to toggle between light and dark theme//
 	(function toggleTheme() {
 		if (localStorage.getItem('theme') === 'theme-light') {
 			setTheme('theme-dark');
@@ -17,7 +16,6 @@ Add code to head
 			setTheme('theme-light');
 		}
 	})
-	// Immediately invoked function to set the theme on initial load//
 	(function() {
 		if (localStorage.getItem('theme') === 'theme-dark') {
 			setTheme('theme-dark');
@@ -25,7 +23,6 @@ Add code to head
 			setTheme('theme-light');
 		}
 	})(); 
-</script>
 ``` 
 
 switch buttons html
