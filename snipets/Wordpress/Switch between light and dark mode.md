@@ -1,6 +1,9 @@
+---
+Switch between light and dark mode
+---
 Add code to: <head>.. </head>
 
-
+```js
 <script>
        // function to set a given theme/color-scheme
 function setTheme(themeName) {
@@ -24,20 +27,19 @@ function toggleTheme() {
    }
 })();
     </script>
- 
+``` 
 
 switch buttons html
 
-
+``` html
 <div class="switch-btn">
  <span id="switch-light" onclick="toggleTheme()">dark mode</span>
  <span id="switch-dark" onclick="toggleTheme()">light mode</span>
 </div>
- 
+ ``` 
 
 customize by css
-
-<style>
+``` css
 .theme-light {
 	background: #fff;
 }
@@ -50,4 +52,4 @@ customize by css
 .theme-dark h1 {
 	color: #fff;
 }
-<style>
+``` 
