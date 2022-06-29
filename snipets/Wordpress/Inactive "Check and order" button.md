@@ -3,7 +3,7 @@ Inactive "Check and order" button
 
 If the condition of, for example, the minimum price of the basket, the number of products, etc. is not met. this script will prevent the customer from continuing the order.
 
-```php
+```js
 /<script>
 	
 	jQuery(document).ready(function(){
