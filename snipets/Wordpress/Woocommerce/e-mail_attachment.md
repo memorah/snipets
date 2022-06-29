@@ -10,7 +10,7 @@ function bbloomer_attach_pdf_to_emails( $attachments, $email_id, $order, $email 
     $email_ids = array( 'customer_completed_order' );
     if ( in_array ( $email_id, $email_ids ) ) {
         $upload_dir = wp_upload_dir();
-        $attachments[] = $upload_dir['basedir'] . "/2021/06/spotrebiteľské-zmluvné-podmienky-a-reklamačný-poriadok-KIDOOP.pdf";
+        $attachments[] = $upload_dir['basedir'] . "/folder/subfolder/attachment.pdf";
     }
     return $attachments;
 }
