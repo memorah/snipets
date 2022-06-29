@@ -1,7 +1,6 @@
 Create Polylang shortcode
 ---
 
-By default, Woocommerce puts products into 4 columns. We will use the following snippet for the change.
 
 ```php
 /* POLYLANG SHORTCODE */
