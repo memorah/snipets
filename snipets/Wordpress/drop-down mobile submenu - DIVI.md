@@ -3,8 +3,7 @@ Drop-down mobile submenu - DIVI
 Add code to head (script tag)
 
 ```js
-
-	(function($) {
+jQuery(function($) {
        
 function setup_collapsible_submenus() {
      
