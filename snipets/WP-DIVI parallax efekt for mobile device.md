@@ -1,5 +1,6 @@
 Parallax efekt for mobile device
 used on WP with DIVI theme
+https://divihype.com/how-to-add-mobile-parallax-to-your-divi-website/
 ---
 
 
