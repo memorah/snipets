@@ -1,1 +1,1 @@
-# php-snipets
+# code snipets most is in php and JS and used for WP and Woocommerce
