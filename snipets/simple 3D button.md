@@ -14,7 +14,7 @@ Simple 3D button
 </div>
 </a>
 ``` 
-
+CSS used in WP with Divi
 ```css
 .link.orange-btn {
   text-decoration: none;
